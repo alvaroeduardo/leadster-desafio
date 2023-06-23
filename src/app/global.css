@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Jakarta';
+  src: url(/fonts/PlusJakartaSans-VariableFont_wght.ttf) format('truetype'),
+    url(/fonts/PlusJakartaSans-VariableFont_wght.ttf) format('truetype');
+}
+
+:root {
+  --background-blue: #F0F8FF;
+  --light-blue: #2c83fb;
+  --medium-blue: #1f76f0;
+  --dark-blue: #1C3C50;
+  --light-gray: #95AAB0;
+}
+body {
+  font-family: 'Jakarta';
+  margin: 0;
+  padding: 0;
+}
